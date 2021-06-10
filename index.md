@@ -22,7 +22,7 @@
 - [Project 1 Title: Medical Cost In US](https://github.com/MichelleAngXY/Capstone-1)
 - [Project 2 Title: Video Game Analysis](https://github.com/MichelleAngXY/Capstone-2)
 - [Project 3 Title: Adverse Events for Covid-19 Vaccine](https://github.com/MichelleAngXY/Capstone-3)
-- [Project 4 Title: Machine_Learning_Prediction_in_Tracking_Product_Delivery](https://github.com/MichelleAngXY/Capstone-4)
+- [Project 4 Title: Machine Learning Prediction in Tracking Product Delivery](https://github.com/MichelleAngXY/Capstone-4)
 
 ---
 
