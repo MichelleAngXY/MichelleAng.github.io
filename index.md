@@ -5,15 +5,15 @@
 ### Category Name 1 
 
 [Project 1 Title: Medical Cost In US](/sample_page)
-<img src="images/dashboard_project_1.jpg?raw=true"/>
+<img src="images/dashboard_project_1.JPG?raw=true"/>
 
 ---
 [Project 2 Title: Video Game Analysis](/pdf/sample_presentation.pdf)
-<img src="images/dashboard_project_2.jpg?raw=true"/>
+<img src="images/dashboard_project_2.JPG?raw=true"/>
 
 ---
 [Project 3 Title: Adverse Events for Covid-19 Vaccine](http://example.com/)
-<img src="images/dashboard_project_3.jpg?raw=true"/>
+<img src="images/dashboard_project_3.JPG?raw=true"/>
 
 ---
 
