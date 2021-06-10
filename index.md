@@ -19,11 +19,10 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1 Title: Medical Cost In US](https://github.com/MichelleAngXY/Capstone-1)
+- [Project 2 Title: Video Game Analysis](https://github.com/MichelleAngXY/Capstone-2)
+- [Project 3 Title: Adverse Events for Covid-19 Vaccine](https://github.com/MichelleAngXY/Capstone-3)
+- [Project 4 Title: Machine_Learning_Prediction_in_Tracking_Product_Delivery](https://github.com/MichelleAngXY/Capstone-4)
 
 ---
 
