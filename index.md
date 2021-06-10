@@ -8,7 +8,7 @@
 <img src="images/dashboard_project_1.JPG?raw=true"/>
 
 ---
-[Project 2 Title: Video Game Analysis](/pdf/sample_presentation.pdf)
+[Project 2 Title: Video Game Analysis](/pdf/"Medical Cost In US.pdf")
 <img src="images/dashboard_project_2.JPG?raw=true"/>
 
 ---
