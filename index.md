@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Dashboard
 
 [Project 1 Title: Medical Cost In US](/Presentation_Pdf/Capstone_1-Medical_Cost_In_US.pdf)
 <img src="images/dashboard_project_1.JPG?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Capstone Project
 
 - [Project 1 Title: Medical Cost In US](https://github.com/MichelleAngXY/Capstone-1)
 - [Project 2 Title: Video Game Analysis](https://github.com/MichelleAngXY/Capstone-2)
