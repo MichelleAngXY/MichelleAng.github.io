@@ -16,6 +16,9 @@
 <img src="images/dashboard_project_3.JPG?raw=true"/>
 
 ---
+[Summative Project Title: SUPERMART Sales Analysis](Presentation_Pdf/Summative_Project-Supermarket_Data_Analysis.pdf)
+<img src="images/dashboard_summative_project.JPG?raw=true"/>
+
 
 ### Capstone Project
 
@@ -23,6 +26,7 @@
 - [Project 2 Title: Video Game Analysis](https://github.com/MichelleAngXY/Capstone-2)
 - [Project 3 Title: Adverse Events for Covid-19 Vaccine](https://github.com/MichelleAngXY/Capstone-3)
 - [Project 4 Title: Machine Learning Prediction in Tracking Product Delivery](https://github.com/MichelleAngXY/Capstone-4)
+- [Summative Project Title: SUPERMART Sales Analysis](https://github.com/MichelleAngXY/Summative_Project)
 
 ---
 
