@@ -9,15 +9,15 @@
 
 ---
 [Project 2 Title: Video Game Analysis](Presentation_Pdf/Capstone_2-Video_Game_Analysis.pdf)
-<img src="images/dashboard_project_2.JPG?raw=true"/>
+[<img src="images/dashboard_project_2.JPG?raw=true"/>](Presentation_Pdf/Capstone_2-Video_Game_Analysis.pdf)
 
 ---
 [Project 3 Title: Adverse Events for Covid-19 Vaccine](Presentation_Pdf/Capstone_3-Adverse_Events_for_Covid-19_Vaccine.pdf)
-<img src="images/dashboard_project_3.JPG?raw=true"/>
+[<img src="images/dashboard_project_3.JPG?raw=true"/>](Presentation_Pdf/Capstone_3-Adverse_Events_for_Covid-19_Vaccine.pdf)
 
 ---
 [Summative Project Title: SUPERMART Sales Analysis](Presentation_Pdf/Summative_Project-Supermarket_Data_Analysis.pdf)
-<img src="images/dashboard_summative_project.JPG?raw=true"/>
+[<img src="images/dashboard_summative_project.JPG?raw=true"/>](Presentation_Pdf/Summative_Project-Supermarket_Data_Analysis.pdf)
 
 
 ### Capstone Project
