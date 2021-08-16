@@ -5,7 +5,7 @@
 ### Dashboard
 
 [Project 1 Title: Medical Cost In US](/Presentation_Pdf/Capstone_1-Medical_Cost_In_US.pdf)
-<img src="images/dashboard_project_1.JPG?raw=true"/>
+[<img src="images/dashboard_project_1.JPG?raw=true"/>](/Presentation_Pdf/Capstone_1-Medical_Cost_In_US.pdf)
 
 ---
 [Project 2 Title: Video Game Analysis](Presentation_Pdf/Capstone_2-Video_Game_Analysis.pdf)
